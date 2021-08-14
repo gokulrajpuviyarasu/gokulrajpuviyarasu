@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="gokulrajpuviyarasu's GitHub Stats" src="https://github-readme-stats.gokulrajpuviyarasu.vercel.app/api?username=gokulrajpuviyarasu&show_icons=true&hide_border=true" />
+  <img align="left" alt="gokulrajpuviyarasu GitHub Stats" src="https://github-readme-stats.gokulrajpuviyarasu.vercel.app/api?username=gokulrajpuviyarasu&show_icons=true&hide_border=true" />
 
 </details>
 
