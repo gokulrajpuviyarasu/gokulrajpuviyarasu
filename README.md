@@ -70,7 +70,7 @@
 
 [website]: https://codeSTACKr.com
 
-[twitter]: https://twitter.com/GokulrajArasu
+[twitter]: https://twitter.com/GokulRajdotdev
 
 [instagram]: https://instagram.com/gokulrajpuviyarasu
 [linkedin]: https://www.linkedin.com/in/gokulrajpuviyarasu
