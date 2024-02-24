@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and riding motor cycle
 
 ### Connect with me:
